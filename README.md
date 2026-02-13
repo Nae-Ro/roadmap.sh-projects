@@ -3,3 +3,4 @@
 <h2>Projects List</h2>
 *[Single-Page HTML CV (Live Demo)](https://nae-ro.github.io/roadmap.sh-projects/Projects/Beginner-Projects/01_One-Single-Page-HTML-CV/) <br/>
 *[Basic HTML Website(Live Demo)](https://nae-ro.github.io/roadmap.sh-projects/Projects/Beginner-Projects/02_Basic-HTML-Website/) <br/>
+*[Personal Portfolio(Live Demo)](https://nae-ro.github.io/roadmap.sh-projects/Projects/Beginner-Projects/03_Personal-Portfolio/)
